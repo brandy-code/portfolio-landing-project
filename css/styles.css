@@ -10,7 +10,6 @@ body {
   height: 100vh;
 }
 .intro {
-  float: left;
   font-style: italic;
   color: blue;
 }
@@ -26,6 +25,7 @@ h2 {
   color: blue;
 }
 .test-box {
+  float: inline-end;
   border: 2px solid blue;
   padding: 6px;
   margin: 20px;
